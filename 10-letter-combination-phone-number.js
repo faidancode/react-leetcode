@@ -45,7 +45,7 @@ var letterCombinations = function (digits) {
   backtrack(0, "");
 
   return result;
-};
+};  
 
 // Explanation
 // Think of this like a tree where "23" is the input.
